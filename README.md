@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 <br /><br />
 <p align="center"><strong>Thanks for Visiting!</strong> I'm open to feedback and suggestions! 😇</p>
-<br /><br />
+<br /><br /> 
 <em><strong>Credits to </strong><a href="https://github-readme-stats.vercel.app">Anurag Hazra</a> for the stats cards</em>
