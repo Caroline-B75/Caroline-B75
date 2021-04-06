@@ -26,8 +26,7 @@ After 15 fulfilling years in marketing, I changed my career path to become a ful
 <br/><h3 align="center">GitHub Analytics</h3><br/>
 <p align="center">
 <a href="https://github.com/Caroline-B75">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caroline-B75&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caroline-B75&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caroline-B75&theme=dark&show_icons=true" />
 </a>
 </p>
 
