@@ -13,7 +13,7 @@ After 15 fulfilling years in marketing, I changed my career path to become a ful
 <p align="center">Currently learning : React</p>
 <p align="center">Languages : Ruby, JavaScript</p>
 <p align="center">Hobbies : Cooking 👩🏼‍🍳 & Escape games 🕵🏻‍♀️</p>
-<p align="center">Fun fact :  Big fan of escape games ❤️ (22 done of which 20 won ✨)</p><br />
+<p align="center">Fun fact :  Big fan of escape games ❤️ (25 done of which 23 won ✨)</p><br />
 
 --------------------------
 
